@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/chetna123-ch/-leetcode-question/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/chetna123-ch/-leetcode-question/tree/master/1683-invalid-tweets) |
 | [1934-confirmation-rate](https://github.com/chetna123-ch/-leetcode-question/tree/master/1934-confirmation-rate) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/chetna123-ch/-leetcode-question/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/chetna123-ch/-leetcode-question/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
