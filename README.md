@@ -55,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/chetna123-ch/-leetcode-question/tree/master/0912-sort-an-array) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/chetna123-ch/-leetcode-question/tree/master/0412-fizz-buzz) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/chetna123-ch/-leetcode-question/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/chetna123-ch/-leetcode-question/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
