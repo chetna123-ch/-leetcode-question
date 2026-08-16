@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/chetna123-ch/-leetcode-question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0704-binary-search](https://github.com/chetna123-ch/-leetcode-question/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/chetna123-ch/-leetcode-question/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chetna123-ch/-leetcode-question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/chetna123-ch/-leetcode-question/tree/master/1480-running-sum-of-1d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/chetna123-ch/-leetcode-question/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
