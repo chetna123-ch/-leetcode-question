@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/chetna123-ch/-leetcode-question/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chetna123-ch/-leetcode-question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/chetna123-ch/-leetcode-question/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/chetna123-ch/-leetcode-question/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/chetna123-ch/-leetcode-question/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chetna123-ch/-leetcode-question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/chetna123-ch/-leetcode-question/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/chetna123-ch/-leetcode-question/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/chetna123-ch/-leetcode-question/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/chetna123-ch/-leetcode-question/tree/master/0912-sort-an-array) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/chetna123-ch/-leetcode-question/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/chetna123-ch/-leetcode-question/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/chetna123-ch/-leetcode-question/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/chetna123-ch/-leetcode-question/tree/master/0412-fizz-buzz) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chetna123-ch/-leetcode-question/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/chetna123-ch/-leetcode-question/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/chetna123-ch/-leetcode-question/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/chetna123-ch/-leetcode-question/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/chetna123-ch/-leetcode-question/tree/master/0387-first-unique-character-in-a-string) |
