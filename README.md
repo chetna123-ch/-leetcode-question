@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/chetna123-ch/-leetcode-question/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/chetna123-ch/-leetcode-question/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/chetna123-ch/-leetcode-question/tree/master/1672-richest-customer-wealth) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/chetna123-ch/-leetcode-question/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/chetna123-ch/-leetcode-question/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/chetna123-ch/-leetcode-question/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/chetna123-ch/-leetcode-question/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/chetna123-ch/-leetcode-question/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
 |  |
 | ------- |
