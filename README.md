@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chetna123-ch/-leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chetna123-ch/-leetcode-question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chetna123-ch/-leetcode-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/chetna123-ch/-leetcode-question/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/chetna123-ch/-leetcode-question/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/chetna123-ch/-leetcode-question/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/chetna123-ch/-leetcode-question/tree/master/0912-sort-an-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/chetna123-ch/-leetcode-question/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/chetna123-ch/-leetcode-question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/chetna123-ch/-leetcode-question/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/chetna123-ch/-leetcode-question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chetna123-ch/-leetcode-question/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/chetna123-ch/-leetcode-question/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/chetna123-ch/-leetcode-question/tree/master/0912-sort-an-array) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/chetna123-ch/-leetcode-question/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chetna123-ch/-leetcode-question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/chetna123-ch/-leetcode-question/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/chetna123-ch/-leetcode-question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chetna123-ch/-leetcode-question/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/chetna123-ch/-leetcode-question/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/chetna123-ch/-leetcode-question/tree/master/0387-first-unique-character-in-a-string) |
