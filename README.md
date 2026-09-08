@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chetna123-ch/-leetcode-question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chetna123-ch/-leetcode-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/chetna123-ch/-leetcode-question/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/chetna123-ch/-leetcode-question/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/chetna123-ch/-leetcode-question/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/chetna123-ch/-leetcode-question/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/chetna123-ch/-leetcode-question/tree/master/0912-sort-an-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/chetna123-ch/-leetcode-question/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/chetna123-ch/-leetcode-question/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/chetna123-ch/-leetcode-question/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -68,12 +70,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/chetna123-ch/-leetcode-question/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/chetna123-ch/-leetcode-question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chetna123-ch/-leetcode-question/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/chetna123-ch/-leetcode-question/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/chetna123-ch/-leetcode-question/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/chetna123-ch/-leetcode-question/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chetna123-ch/-leetcode-question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/chetna123-ch/-leetcode-question/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/chetna123-ch/-leetcode-question/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -82,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/chetna123-ch/-leetcode-question/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/chetna123-ch/-leetcode-question/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -90,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/chetna123-ch/-leetcode-question/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/chetna123-ch/-leetcode-question/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/chetna123-ch/-leetcode-question/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chetna123-ch/-leetcode-question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -130,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/chetna123-ch/-leetcode-question/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/chetna123-ch/-leetcode-question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chetna123-ch/-leetcode-question/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/chetna123-ch/-leetcode-question/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/chetna123-ch/-leetcode-question/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/chetna123-ch/-leetcode-question/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chetna123-ch/-leetcode-question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -224,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chetna123-ch/-leetcode-question/tree/master/0020-valid-parentheses) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/chetna123-ch/-leetcode-question/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
