@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/chetna123-ch/-leetcode-question/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/chetna123-ch/-leetcode-question/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/chetna123-ch/-leetcode-question/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/chetna123-ch/-leetcode-question/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/chetna123-ch/-leetcode-question/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/chetna123-ch/-leetcode-question/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/chetna123-ch/-leetcode-question/tree/master/0509-fibonacci-number) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/chetna123-ch/-leetcode-question/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/chetna123-ch/-leetcode-question/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/chetna123-ch/-leetcode-question/tree/master/0412-fizz-buzz) |
 ## Hash Table
 |  |
@@ -237,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/chetna123-ch/-leetcode-question/tree/master/0347-top-k-frequent-elements) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/chetna123-ch/-leetcode-question/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
