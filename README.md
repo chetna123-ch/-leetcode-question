@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/chetna123-ch/-leetcode-question/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/chetna123-ch/-leetcode-question/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/chetna123-ch/-leetcode-question/tree/master/1672-richest-customer-wealth) |
+| [3483-unique-3-digit-even-numbers](https://github.com/chetna123-ch/-leetcode-question/tree/master/3483-unique-3-digit-even-numbers) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/chetna123-ch/-leetcode-question/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/chetna123-ch/-leetcode-question/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/chetna123-ch/-leetcode-question/tree/master/3904-smallest-stable-index-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chetna123-ch/-leetcode-question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-path-crossing](https://github.com/chetna123-ch/-leetcode-question/tree/master/1496-path-crossing) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/chetna123-ch/-leetcode-question/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3483-unique-3-digit-even-numbers](https://github.com/chetna123-ch/-leetcode-question/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/chetna123-ch/-leetcode-question/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/chetna123-ch/-leetcode-question/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/chetna123-ch/-leetcode-question/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/chetna123-ch/-leetcode-question/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -254,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/chetna123-ch/-leetcode-question/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/chetna123-ch/-leetcode-question/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
