@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/chetna123-ch/-leetcode-question/tree/master/0912-sort-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/chetna123-ch/-leetcode-question/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chetna123-ch/-leetcode-question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/chetna123-ch/-leetcode-question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/chetna123-ch/-leetcode-question/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/chetna123-ch/-leetcode-question/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/chetna123-ch/-leetcode-question/tree/master/1672-richest-customer-wealth) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/chetna123-ch/-leetcode-question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/chetna123-ch/-leetcode-question/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/chetna123-ch/-leetcode-question/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/chetna123-ch/-leetcode-question/tree/master/3904-smallest-stable-index-ii) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chetna123-ch/-leetcode-question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/chetna123-ch/-leetcode-question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/chetna123-ch/-leetcode-question/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Quicksort
 |  |
