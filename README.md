@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/chetna123-ch/-leetcode-question/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/chetna123-ch/-leetcode-question/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/chetna123-ch/-leetcode-question/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/chetna123-ch/-leetcode-question/tree/master/0835-image-overlap) |
 | [0912-sort-an-array](https://github.com/chetna123-ch/-leetcode-question/tree/master/0912-sort-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/chetna123-ch/-leetcode-question/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chetna123-ch/-leetcode-question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/chetna123-ch/-leetcode-question/tree/master/0054-spiral-matrix) |
+| [0835-image-overlap](https://github.com/chetna123-ch/-leetcode-question/tree/master/0835-image-overlap) |
 | [1672-richest-customer-wealth](https://github.com/chetna123-ch/-leetcode-question/tree/master/1672-richest-customer-wealth) |
 ## Queue
 |  |
