@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/chetna123-ch/-leetcode-question/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chetna123-ch/-leetcode-question/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/chetna123-ch/-leetcode-question/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/chetna123-ch/-leetcode-question/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/chetna123-ch/-leetcode-question/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/chetna123-ch/-leetcode-question/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/chetna123-ch/-leetcode-question/tree/master/0704-binary-search) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/chetna123-ch/-leetcode-question/tree/master/0303-range-sum-query-immutable) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/chetna123-ch/-leetcode-question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/chetna123-ch/-leetcode-question/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/chetna123-ch/-leetcode-question/tree/master/1732-find-the-highest-altitude) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/chetna123-ch/-leetcode-question/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/chetna123-ch/-leetcode-question/tree/master/0303-range-sum-query-immutable) |
 ## Bracket Sequences
 |  |
 | ------- |
