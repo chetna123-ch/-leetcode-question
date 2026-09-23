@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chetna123-ch/-leetcode-question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chetna123-ch/-leetcode-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/chetna123-ch/-leetcode-question/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/chetna123-ch/-leetcode-question/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/chetna123-ch/-leetcode-question/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/chetna123-ch/-leetcode-question/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/chetna123-ch/-leetcode-question/tree/master/0303-range-sum-query-immutable) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/chetna123-ch/-leetcode-question/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chetna123-ch/-leetcode-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/chetna123-ch/-leetcode-question/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/chetna123-ch/-leetcode-question/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/chetna123-ch/-leetcode-question/tree/master/0704-binary-search) |
 ## Divide and Conquer
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/chetna123-ch/-leetcode-question/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/chetna123-ch/-leetcode-question/tree/master/0303-range-sum-query-immutable) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/chetna123-ch/-leetcode-question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/chetna123-ch/-leetcode-question/tree/master/1480-running-sum-of-1d-array) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chetna123-ch/-leetcode-question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/chetna123-ch/-leetcode-question/tree/master/0209-minimum-size-subarray-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/chetna123-ch/-leetcode-question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/chetna123-ch/-leetcode-question/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Quicksort
