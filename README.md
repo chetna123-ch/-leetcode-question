@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/chetna123-ch/-leetcode-question/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/chetna123-ch/-leetcode-question/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/chetna123-ch/-leetcode-question/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/chetna123-ch/-leetcode-question/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/chetna123-ch/-leetcode-question/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/chetna123-ch/-leetcode-question/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/chetna123-ch/-leetcode-question/tree/master/0349-intersection-of-two-arrays) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/chetna123-ch/-leetcode-question/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chetna123-ch/-leetcode-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/chetna123-ch/-leetcode-question/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/chetna123-ch/-leetcode-question/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/chetna123-ch/-leetcode-question/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/chetna123-ch/-leetcode-question/tree/master/0704-binary-search) |
 ## Divide and Conquer
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/chetna123-ch/-leetcode-question/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/chetna123-ch/-leetcode-question/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/chetna123-ch/-leetcode-question/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chetna123-ch/-leetcode-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/chetna123-ch/-leetcode-question/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/chetna123-ch/-leetcode-question/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/chetna123-ch/-leetcode-question/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/chetna123-ch/-leetcode-question/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
@@ -294,4 +298,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/chetna123-ch/-leetcode-question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chetna123-ch/-leetcode-question/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/chetna123-ch/-leetcode-question/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/chetna123-ch/-leetcode-question/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
