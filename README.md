@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/chetna123-ch/-leetcode-question/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/chetna123-ch/-leetcode-question/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/chetna123-ch/-leetcode-question/tree/master/1732-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/chetna123-ch/-leetcode-question/tree/master/1929-concatenation-of-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chetna123-ch/-leetcode-question/tree/master/3483-unique-3-digit-even-numbers) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/chetna123-ch/-leetcode-question/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/chetna123-ch/-leetcode-question/tree/master/3903-smallest-stable-index-i) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/chetna123-ch/-leetcode-question/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/chetna123-ch/-leetcode-question/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/chetna123-ch/-leetcode-question/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/chetna123-ch/-leetcode-question/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
