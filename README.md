@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/chetna123-ch/-leetcode-question/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/chetna123-ch/-leetcode-question/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/chetna123-ch/-leetcode-question/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/chetna123-ch/-leetcode-question/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/chetna123-ch/-leetcode-question/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/chetna123-ch/-leetcode-question/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/chetna123-ch/-leetcode-question/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/chetna123-ch/-leetcode-question/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/chetna123-ch/-leetcode-question/tree/master/0287-find-the-duplicate-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/chetna123-ch/-leetcode-question/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
