@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/chetna123-ch/-leetcode-question/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/chetna123-ch/-leetcode-question/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/chetna123-ch/-leetcode-question/tree/master/0424-longest-repeating-character-replacement) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chetna123-ch/-leetcode-question/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1496-path-crossing](https://github.com/chetna123-ch/-leetcode-question/tree/master/1496-path-crossing) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/chetna123-ch/-leetcode-question/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Simulation
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/chetna123-ch/-leetcode-question/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/chetna123-ch/-leetcode-question/tree/master/0232-implement-queue-using-stacks) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chetna123-ch/-leetcode-question/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
